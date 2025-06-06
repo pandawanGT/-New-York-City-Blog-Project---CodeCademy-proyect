@@ -1,0 +1,1 @@
+Frontend student at Codecademy.
